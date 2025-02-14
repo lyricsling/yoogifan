@@ -2,4 +2,7 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 
-theme = 'paper'
+theme = 'gokarna'
+
+[params]
+showPostsOnHomePage = "recent"

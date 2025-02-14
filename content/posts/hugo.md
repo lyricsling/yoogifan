@@ -1,6 +1,7 @@
 +++
 date = '2025-02-12T22:54:30+08:00'
 title = 'Hugo'
+type = 'post'
 +++
 # Hugo 安装
 ## Hugo 下载
