@@ -2,7 +2,7 @@ baseURL = 'https://yoogifan.vercel.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 
-theme = 'gokarna'
+theme = 'paper'
 
 [params]
 showPostsOnHomePage = "recent"
